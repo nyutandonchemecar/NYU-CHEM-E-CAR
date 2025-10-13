@@ -1,0 +1,18 @@
+{
+  "Sulfuric Acid (100ml)": {
+    "name": "Sulfuric Acid (100ml)",
+    "price": 4.2
+  },
+  "Hydrochloric Acid (100ml)": {
+    "name": "Hydrochloric Acid (100ml)",
+    "price": 3.2
+  },
+  "Distilled Water (100ml)": {
+    "name": "Distilled Water (100ml)",
+    "price": 2.3
+  },
+  "Sodium Sulfate (100g)": {
+    "name": "Sodium Sulfate (100g)",
+    "price": 4.5
+  }
+}
